@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Tagtable name="Queue of Items (Counters)">
+  <!-- exported by FACTORY I/O version 2.5.4 -->
+  <Tag type="Bool" addr="%I0.0">Start Button 1</Tag>
+  <Tag type="Bool" addr="%I0.1">Stop Button 1</Tag>
+  <Tag type="Bool" addr="%I0.2">Item Ready</Tag>
+  <Tag type="Bool" addr="%I0.3">At Entry</Tag>
+  <Tag type="Bool" addr="%I0.4">At Exit</Tag>
+  <Tag type="Bool" addr="%Q0.0">Start Button 1 (Light)</Tag>
+  <Tag type="Bool" addr="%Q0.1">Stop Button 1 (Light)</Tag>
+  <Tag type="Bool" addr="%Q0.2">Entry conveyor</Tag>
+  <Tag type="Bool" addr="%Q0.3">Buffer conveyor</Tag>
+  <Tag type="DInt" addr="%QD30">Digital Display 1</Tag>
+</Tagtable>
