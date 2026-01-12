@@ -1,0 +1,3 @@
+<?xml version="1.0" standalone="no"?>
+<?xml-stylesheet type='text/xsl' href='MassDataHandlerLogFile.xsl'?>
+<LogFile titleName="test.xml" projectName="D:\Downloads\test.xlsx" typeText="Type" messageText="Message" timeText="Time" />

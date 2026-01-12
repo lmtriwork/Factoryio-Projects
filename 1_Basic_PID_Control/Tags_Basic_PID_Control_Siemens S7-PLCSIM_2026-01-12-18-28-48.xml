@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Tagtable name="Basic_PID_Control">
+  <!-- exported by FACTORY I/O version 2.5.4 -->
+  <Tag type="Bool" addr="%I0.0">Start_PB</Tag>
+  <Tag type="Bool" addr="%I0.1">Reset_PB</Tag>
+  <Tag type="Bool" addr="%I0.2">Stop_PB</Tag>
+  <Tag type="Bool" addr="%I0.3">FACTORY I/O (Running)</Tag>
+  <Tag type="Bool" addr="%Q0.0">Start light</Tag>
+  <Tag type="Bool" addr="%Q0.1">Reset light</Tag>
+  <Tag type="Bool" addr="%Q0.2">Stop light</Tag>
+  <Tag type="Real" addr="%ID30">Level meter</Tag>
+  <Tag type="Real" addr="%ID34">Flow meter</Tag>
+  <Tag type="Real" addr="%ID38">Setpoint</Tag>
+  <Tag type="Real" addr="%QD30">Fill valve</Tag>
+  <Tag type="Real" addr="%QD34">Discharge valve</Tag>
+  <Tag type="DInt" addr="%QD38">SP</Tag>
+  <Tag type="DInt" addr="%QD42">PV</Tag>
+</Tagtable>
