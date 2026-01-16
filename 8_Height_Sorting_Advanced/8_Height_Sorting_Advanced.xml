@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Tagtable name="8_Height_Sorting_Advanced">
+  <!-- exported by FACTORY I/O version 2.5.4 -->
+  <Tag type="Bool" addr="%I0.0">Start Button</Tag>
+  <Tag type="Bool" addr="%I0.1">Stop Button</Tag>
+  <Tag type="Bool" addr="%I0.2">Palletizer box Sensor</Tag>
+  <Tag type="Bool" addr="%I0.3">Medium Box Sensor</Tag>
+  <Tag type="Bool" addr="%I0.4">Large box Sensor</Tag>
+  <Tag type="Bool" addr="%I0.5">At right entry</Tag>
+  <Tag type="Bool" addr="%I0.6">At right exit</Tag>
+  <Tag type="Bool" addr="%I0.7">At left entry</Tag>
+  <Tag type="Bool" addr="%I1.0">At left exit</Tag>
+  <Tag type="Bool" addr="%I1.1">At straight entry</Tag>
+  <Tag type="Bool" addr="%I1.2">At straight exit</Tag>
+  <Tag type="Bool" addr="%I1.3">At back</Tag>
+  <Tag type="Bool" addr="%I1.4">At front</Tag>
+  <Tag type="Bool" addr="%I1.5">At load position</Tag>
+  <Tag type="Bool" addr="%I1.6">At unload position</Tag>
+  <Tag type="Bool" addr="%Q0.0">Start Button (LED)</Tag>
+  <Tag type="Bool" addr="%Q0.1">Stop Button (LED)</Tag>
+  <Tag type="Bool" addr="%Q0.2">Entry conveyor</Tag>
+  <Tag type="Bool" addr="%Q0.3">Right conveyor</Tag>
+  <Tag type="Bool" addr="%Q0.4">Left conveyor</Tag>
+  <Tag type="Bool" addr="%Q0.5">Straight Conveyor</Tag>
+  <Tag type="Bool" addr="%Q0.6">Load</Tag>
+  <Tag type="Bool" addr="%Q0.7">Unload</Tag>
+  <Tag type="Bool" addr="%Q1.0">Turn</Tag>
+  <Tag type="Bool" addr="%Q1.1">Green indicator</Tag>
+  <Tag type="Bool" addr="%Q1.2">Red indicator</Tag>
+  <Tag type="DInt" addr="%QD30">Pallet Box Count</Tag>
+  <Tag type="DInt" addr="%QD34">Medium Box Count</Tag>
+  <Tag type="DInt" addr="%QD38">Large Box Count</Tag>
+</Tagtable>
