@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Tagtable name="11_Sorting_Station">
+  <!-- exported by FACTORY I/O version 2.5.4 -->
+  <Tag type="Bool" addr="%I0.0">Start</Tag>
+  <Tag type="Bool" addr="%I0.1">Pause &amp; Unpause</Tag>
+  <Tag type="Bool" addr="%I0.2">Reset</Tag>
+  <Tag type="Bool" addr="%I0.3">At exit</Tag>
+  <Tag type="Bool" addr="%Q0.0">Start light</Tag>
+  <Tag type="Bool" addr="%Q0.1">Pause &amp; U Light</Tag>
+  <Tag type="Bool" addr="%Q0.2">Reset light</Tag>
+  <Tag type="Bool" addr="%Q0.3">Entry conveyor</Tag>
+  <Tag type="Bool" addr="%Q0.4">Exit conveyor</Tag>
+  <Tag type="Bool" addr="%Q0.5">Sorter 1 belt</Tag>
+  <Tag type="Bool" addr="%Q0.6">Sorter 1 turn</Tag>
+  <Tag type="Bool" addr="%Q0.7">Sorter 2 belt</Tag>
+  <Tag type="Bool" addr="%Q1.0">Sorter 2 turn</Tag>
+  <Tag type="Bool" addr="%Q1.1">Sorter 3 belt</Tag>
+  <Tag type="Bool" addr="%Q1.2">Sorter 3 turn</Tag>
+  <Tag type="DInt" addr="%ID30">Vision sensor</Tag>
+  <Tag type="DInt" addr="%QD30"> Raw Materials Count</Tag>
+  <Tag type="DInt" addr="%QD34">Product Base Count</Tag>
+  <Tag type="DInt" addr="%QD38">Product Lid Count</Tag>
+</Tagtable>
