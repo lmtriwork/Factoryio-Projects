@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Tagtable name="12_Converge_Station">
+  <!-- exported by FACTORY I/O version 2.5.4 -->
+  <Tag type="Bool" addr="%I0.0">Start</Tag>
+  <Tag type="Bool" addr="%I0.1">Pause &amp; Unpause</Tag>
+  <Tag type="Bool" addr="%I0.2">Reset</Tag>
+  <Tag type="Bool" addr="%I0.3">At entry 1</Tag>
+  <Tag type="Bool" addr="%I0.4">At transfer 1</Tag>
+  <Tag type="Bool" addr="%I0.5">At exit</Tag>
+  <Tag type="Bool" addr="%I0.6">At transfer 2</Tag>
+  <Tag type="Bool" addr="%I0.7">At entry 2</Tag>
+  <Tag type="Bool" addr="%I1.0">Auto</Tag>
+  <Tag type="Bool" addr="%I1.1">Manual</Tag>
+  <Tag type="Bool" addr="%Q0.0">Start light</Tag>
+  <Tag type="Bool" addr="%Q0.1">P &amp; UP light</Tag>
+  <Tag type="Bool" addr="%Q0.2">Reset light</Tag>
+  <Tag type="Bool" addr="%Q0.3">Load 1</Tag>
+  <Tag type="Bool" addr="%Q0.4">Load 2</Tag>
+  <Tag type="Bool" addr="%Q0.5">Transfer left 1</Tag>
+  <Tag type="Bool" addr="%Q0.6">Transfer left 2</Tag>
+  <Tag type="Bool" addr="%Q0.7">Conveyor 1</Tag>
+  <Tag type="Bool" addr="%Q1.0">Conveyor 2</Tag>
+  <Tag type="Bool" addr="%Q1.1">Exit conveyor</Tag>
+  <Tag type="DInt" addr="%QD30">Counter</Tag>
+</Tagtable>
