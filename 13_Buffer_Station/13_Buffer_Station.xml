@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Tagtable name="13_Buffer_Station">
+  <!-- exported by FACTORY I/O version 2.5.4 -->
+  <Tag type="Bool" addr="%I0.0">Start</Tag>
+  <Tag type="Bool" addr="%I0.1">Pause &amp; Unpause</Tag>
+  <Tag type="Bool" addr="%I0.2">Reset</Tag>
+  <Tag type="Bool" addr="%I0.3">At buffer entry</Tag>
+  <Tag type="Bool" addr="%I0.4">At buffer exit</Tag>
+  <Tag type="Bool" addr="%I0.5">At exit</Tag>
+  <Tag type="Bool" addr="%I0.6">Without set (mode)</Tag>
+  <Tag type="Bool" addr="%I0.7">Send set (mode)</Tag>
+  <Tag type="Bool" addr="%Q0.0">Start light</Tag>
+  <Tag type="Bool" addr="%Q0.1">P &amp; UP light</Tag>
+  <Tag type="Bool" addr="%Q0.2">Reset light</Tag>
+  <Tag type="Bool" addr="%Q0.3">Stop blade</Tag>
+  <Tag type="Real" addr="%ID30">Buffer Vel.</Tag>
+  <Tag type="Real" addr="%ID34">Set the value for boxes</Tag>
+  <Tag type="Real" addr="%QD30">Buffer conveyor</Tag>
+  <Tag type="Real" addr="%QD34">Exit conveyor</Tag>
+  <Tag type="Real" addr="%QD38">Display Buffer (Speed)</Tag>
+  <Tag type="DInt" addr="%QD42">Display for set of boxes</Tag>
+  <Tag type="DInt" addr="%QD46">Display Counter</Tag>
+</Tagtable>
